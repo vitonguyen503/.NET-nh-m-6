@@ -1,8 +1,7 @@
 # Đề tài: QUẢN LÝ TRUNG TÂM TIẾNG ANH
 ## Bìa: Gồm hình logo của trung tâm + thanh progress bar 
-- Đăng nhập: hiển thị ra một combobox gồm 2 hộp là ADMIN, Học sinh 
-- Đăng ký: tạo tài khoản mới cho học sinh
-- Thay đổi mật khẩu: cho phép học sinh và ADMIN thay đổi mật khẩu tài khoản
+- Đăng nhập
+- Thay đổi mật khẩu
 ## Trang chủ: 
 - Quản lý học viên: cho phép thêm, sửa, xoá thông tin học viên, bao gồm các thông tin như tên, ngày sinh, địa chỉ, số điện thoại, email, học phí đã đóng, khóa học đã đăng ký...
 
